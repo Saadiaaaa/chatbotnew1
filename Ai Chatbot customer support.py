@@ -11,7 +11,7 @@ import streamlit as st
 nltk.download('stopwords')
 
 # Define the path to your CSV file
-CSV_FILE_PATH = r"C:\Users\htc\PycharmProjects\HolaAmigos\finale project\assistance_responses_cvs_new.csv"
+CSV_FILE_PATH ="assistance_responses_cvs_new.csv"
 
 # Custom CSS for Modern Flat Design
 st.markdown("""
